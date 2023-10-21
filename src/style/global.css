@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Nunito:wght@300;400&display=swap");
+
+body {
+    background-color: #EDF2FA;
+    font-family:  'Nunito';
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    padding: 4px;
+}
+
+button:hover {
+        opacity: 0.6;
+}
