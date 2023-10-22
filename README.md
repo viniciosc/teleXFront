@@ -4,6 +4,8 @@ Telexfront é um projeto front-end desenvolvido para interagir com uma API em No
 
 ## Pré-requisitos
 
+O cadastro do usuario precisa ser o mesmo nome do usuario do telegram para ele ser capaz de indentificar suas mensagems 
+
 Antes de começar, certifique-se de ter as seguintes dependências instaladas:
 
 - [Node.js](https://nodejs.org/)

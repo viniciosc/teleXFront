@@ -33,6 +33,7 @@ const fetchMessages = async () => {
 };
 
 onMounted(() => {
+  //coloque o caminho do server
   const socket = socketIo('http://localhost:3000', {
     transports: ['websocket'],
   });

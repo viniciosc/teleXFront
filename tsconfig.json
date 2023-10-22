@@ -12,6 +12,9 @@
     "moduleResolution": "node",
     "allowJs": true,
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": [
+      "vue3-toastify/global"
+    ]
 },
 }
